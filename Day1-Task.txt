@@ -1,0 +1,9 @@
+1.Quest;Browsers js vs node js?
+
+ans   ;Both the browser and note.js use javascript as their programming language
+
+2.quest;Date type?
+
+
+ans   ;Date type means inbuild function,
+       integer,string,boolean
